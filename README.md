@@ -4,7 +4,8 @@ I'm a self-taught Web Developer with expertise in HTML, CSS, and JavaScript acqu
 
 When I'm not coding, I'm at the local skatepark 🛹 throwing KickFlips and enjoying the outdoors 🌞!
 
-My latest creation and project is **Cluster-Engine**: a full HTML5 game engine and framework built from scratch and NO dependencies, for deveoping HTML5 canvas based games. Check it out!
+My latest creation and project is `Cluster-Engine`: a full HTML5 game engine and framework built from scratch in `VanillaJS` with NO dependencies. [Check it out!](https://github.com/that-webdev-dude/cluster-engine)
+<br/>
 
 ## 🚀 Technologies and Tools
 
