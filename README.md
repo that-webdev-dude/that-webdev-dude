@@ -42,6 +42,6 @@ My latest creation and project I'm proud of is `Cluster-Engine`: a full HTML5 ga
 
 Feel free to reach out to me through the following platforms:
 
-- **LinkedIn:** [linkedin.com/in/fabio-barracano](www.linkedin.com/in/fabiobarracano)
+- **LinkedIn:** [linkedin.com/in/fabio-barracano](https://www.linkedin.com/in/fabiobarracano?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBv1W%2FlBRRjKKFCV299Nrjw%3D%3D)
 - **CodePen:** [codepen.io/fabio-barracano](https://codepen.io/ThatWebdevDude)
 - **Instagram:** [instagram.com/fabio-barracano](https://www.instagram.com/fabiob_skate/)
