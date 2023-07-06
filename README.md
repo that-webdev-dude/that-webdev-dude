@@ -8,9 +8,9 @@ My latest creation and project is `Cluster-Engine`: a full HTML5 game engine and
 <br/>
 <br/>
 
-## 🚀 Technologies and Tools
+## 🚀 Technologies and Dev Tools I ❤️
+
 <p >
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="height: 32px;" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="height: 32px;" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="height: 32px;" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="height: 32px;" />
@@ -34,11 +34,86 @@ My latest creation and project is `Cluster-Engine`: a full HTML5 game engine and
 </p>
 <br/>
 
+## 🎮 My Projects
 
-## 🎮 Projects
+1. **Devkit CLI** (GitHub Package)
 
-- **HTML5 Game Engine** - Developing a full-fledged game engine using HTML5 technologies. Excited to create immersive gaming experiences!
-- **npm Packages** - Created several npm packages to streamline web development processes and enhance JavaScript functionality.
+   - A Command Line tool for superfast scaffolding of any simple Vanilla JavaScript Project.
+   - Technologies: JavaScript, SCSS, TypeScript, HTML, Webpack
+   - GitHub: [github.com/your-username/devkit-cli](http://github)
+
+---
+
+2. **Cluster Engine** (JavaScript Framework)
+   - A Vanilla JS canvas-based game engine & framework for HTML5 game development.
+   - Technologies: JavaScript
+   - GitHub: [github.com/your-username/cluster-engine](http://github)
+
+---
+
+3. **CoronaVirus** (Web App)
+
+   - A COVID-19 tracker that displays up-to-date information by country, including total cases, deaths, and recoveries.
+   - Technologies: JavaScript, VueJS, Vuex, HTML, CSS, GraphQL
+   - GitHub: [github.com/your-username/coronavirus-tracker](http://github)
+
+4. **Tribute Page** (Web Page)
+
+   - Design concept and implementation of a fully responsive landing page for an emerging band.
+   - Technologies: JavaScript, HTML, CSS/Scss
+   - GitHub: [github.com/your-username/tribute-page](http://github)
+
+5. **Tech Page** (Web Page)
+
+   - Design concept and implementation of a fully responsive technical documentation page for the "type-is-plain-object" NPM package.
+   - Technologies: JavaScript, HTML, CSS/Scss
+   - GitHub: [github.com/your-username/tech-page](http://github)
+
+6. **Landing Page** (Web Page)
+
+   - Design concept and implementation of a fully responsive web page for a fictitious plants online store.
+   - Technologies: JavaScript, HTML, CSS/Scss
+   - GitHub: [github.com/your-username/landing-page](http://github)
+
+7. **Cluster CSS** (CSS Framework)
+
+   - CSS framework for rapidly building modern websites.
+   - Technologies: CSS/Scss, GulpJS
+   - GitHub: [github.com/your-username/cluster-css](http://github)
+
+8. **TypeIs.js** (NPM Package)
+
+   - A JavaScript utility library for type checking.
+   - Technologies: JavaScript
+   - GitHub: [github.com/your-username/typeis-js](http://github)
+
+9. **TodoNinja** (Web App)
+
+   - A VueJs todo list app on steroids.
+   - Technologies: JavaScript, VueJS, Firebase
+   - GitHub: [github.com/your-username/todo-ninja](http://github)
+
+10. **SymoddClone** (Web Page)
+
+    - A symodd.com Website clone.
+    - Technologies: HTML, CSS, JavaScript
+    - GitHub: [github.com/your-username/symodd-clone](http://github)
+
+11. **CRIS** (Web App) - Collaborative work for CGG
+
+    - A web app prototype for gathering client feedback analytics.
+    - Technologies: JavaScript, VueJS, Vuex, HTML, CSS
+    - GitHub: [github.com/your-username/cris-cgg](http://github)
+
+12. **QRDeck** (Web App) - Collaborative work for CGG
+
+    - A web-based tool for Redhill operators for gathering machine stats using QR codes.
+    - Technologies: JavaScript, VueJS, Vuex, HTML, CSS/Scss
+    - GitHub: [github.com/your-username/qrdeck-cgg](http://github)
+
+13. **FlowMotion** - Volunteering work (Web Design) - Web design project for the Flowmotion C.I.C. project based in Crawley. - Technologies: JavaScript, VueJS, Vuex, HTML, CSS/Scss - GitHub: [github.com/your-username/flowmotion-project](http://github)
+    <br/>
+    <br/>
 
 ## 💡 Interests
 
