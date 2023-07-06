@@ -1,13 +1,10 @@
 # Hey, I'm Fabio! 👋
 
-I'm a self-taught Web Developer with expertise in HTML, CSS, and JavaScript acquired through independent projects and online learning platforms. Absolutely love **JavaScript** and it's EcoSystem and I enjoy building things in Vanilla JS but also **VueJS**. Currently getting my hands on **ReactJS**.
+I'm a self-taught Web Developer with expertise in HTML, CSS, and JavaScript acquired through independent projects and online learning platforms. I spend most of my free time building Web Apps and tools in VanillaJS, **VueJS** and lately I've started using **ReactJS** as well.
 
-I spend most of my free time at the local skatepark 🛹 throwing KickFlips and enjoying the outdoors 🌞!
+When I'm not coding, I'm at the local skatepark 🛹 throwing KickFlips and enjoying the outdoors 🌞!
 
-My latest creation and currently the most active repo Cluster-Engine: a full HTML5 game engine and framework, for deveoping HTML5 canvas based games. Check it out!
-
-<br/>
-<br/>
+My latest creation and project is **Cluster-Engine**: a full HTML5 game engine and framework built from scratch and NO dependencies, for deveoping HTML5 canvas based games. Check it out!
 
 ## 🚀 Technologies and Tools
 
