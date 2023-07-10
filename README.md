@@ -33,8 +33,9 @@ When I'm not coding, I'm at the local skatepark 🛹 throwing KickFlips and enjo
 </p>
 <br/>
 
-## ⭐ Top Repo
+## ⭐ Top Repos
 - `Cluster-Engine`: My latest creation and (huge) project; a full HTML5 game engine and framework built from scratch in `VanillaJS` with NO dependencies. [Check it out!](https://github.com/that-webdev-dude/cluster-engine)
+- `Covid-Tracker`: A React based application that allows users to track COVID-19 cases and deaths worldwide, by searching for Countries. [Check it out!](https://github.com/that-webdev-dude/covid-tracker)
 <br/>
 <br/>
 
