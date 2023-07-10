@@ -34,8 +34,7 @@ When I'm not coding, I'm at the local skatepark 🛹 throwing KickFlips and enjo
 <br/>
 
 ## ⭐ Top Repo
-
-My latest creation and project I'm proud of is `Cluster-Engine`: a full HTML5 game engine and framework built from scratch in `VanillaJS` with NO dependencies. [Check it out!](https://github.com/that-webdev-dude/cluster-engine)
+- `Cluster-Engine`: My latest creation and (huge) project; a full HTML5 game engine and framework built from scratch in `VanillaJS` with NO dependencies. [Check it out!](https://github.com/that-webdev-dude/cluster-engine)
 <br/>
 <br/>
 
