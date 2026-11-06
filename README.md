@@ -22,11 +22,17 @@ A browser-based pixel art editor inspired by Aseprite, with layers, animation fr
 
 Built to make artwork that actually looks the same in the editor and the game.
 
-### [devkit-ts](https://github.com/that-webdev-dude/devkit-ts)
+### [NGNE Tilemap Editor](https://github.com/that-webdev-dude/ngne-tilemap-editor)
 
-A TypeScript project scaffolding CLI. React, vanilla TS, libraries, build tooling and tests without the usual setup routine.
+A browser-based tile map builder inspired by Tiled. Users build tilemaps that an NGNE game loads without hand-editing.
 
-Because writing boilerplate once was enough.
+Built for the space between a level idea and its first playtest.
+
+### [NGNE Games](https://github.com/that-webdev-dude/ngne-games)
+
+A collection of browser games built with NGNE, bringing the engine and its tools together in playable projects.
+
+Built to put the engine through its paces, one game at a time.
 
 ## Tech stack
 
