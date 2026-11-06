@@ -12,45 +12,29 @@ Away from the keyboard, I'm usually skateboarding, listening to music or enjoyin
 
 ### [NGNE](https://github.com/that-webdev-dude/ngne)
 
-A 2D game engine built from scratch with TypeScript and WebGPU. ECS, fixed-step simulation, sprite rendering and zero runtime dependencies.
-
-Started as a way to understand how game engines work. Got a little out of hand.
+A 2D game engine written from scratch in TypeScript and WebGPU, with zero runtime dependencies. Started as a way to understand how game engines work. Got a little out of hand.
 
 ### [NGNE Sprite Editor](https://github.com/that-webdev-dude/ngne-sprite-editor)
 
-A browser-based pixel art editor inspired by Aseprite, with layers, animation frames, onion skinning and NGNE-powered rendering.
-
-Built to make artwork that actually looks the same in the editor and the game.
+An Aseprite-inspired pixel art editor with layers, animation and onion skinning. Uses NGNE for rendering, so artwork looks the same in the editor and the game.
 
 ### [NGNE Tilemap Editor](https://github.com/that-webdev-dude/ngne-tilemap-editor)
 
-A browser-based tile map builder inspired by Tiled. Users build tilemaps that an NGNE game loads without hand-editing.
-
-Built for the space between a level idea and its first playtest.
+A Tiled-inspired level editor that takes tilemaps straight into an NGNE game. Less hand-editing, more playtesting.
 
 ### [NGNE Games](https://github.com/that-webdev-dude/ngne-games)
 
-A collection of browser games built with NGNE, bringing the engine and its tools together in playable projects.
-
-Built to put the engine through its paces, one game at a time.
+Browser games where the engine and editors get put to use—and where I find out what they’re missing.
 
 ## Tech stack
 
-**Frontend**
-
-TypeScript / JavaScript / React / HTML / CSS
-
-**Backend**
-
-Java / Spring Boot / Node.js
-
-**Graphics**
-
-WebGPU / WebGL / C++
-
-**Tooling**
-
-Git / Vite / Playwright
+<table>
+  <tr><td>Languages</td><td>TypeScript, JavaScript, Java, C++</td></tr>
+  <tr><td>Frontend</td><td>React, HTML, CSS</td></tr>
+  <tr><td>Backend</td><td>Spring Boot, Node.js</td></tr>
+  <tr><td>Graphics</td><td>WebGPU, WebGL</td></tr>
+  <tr><td>Tooling</td><td>Git, Vite, Playwright</td></tr>
+</table>
 
 ## Elsewhere
 
