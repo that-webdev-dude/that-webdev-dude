@@ -16,23 +16,17 @@ A 2D game engine built from scratch with TypeScript and WebGPU. ECS, fixed-step 
 
 Started as a way to understand how game engines work. Got a little out of hand.
 
-[Source](https://github.com/that-webdev-dude/ngne) / [Play Starfall '89](https://that-webdev-dude.github.io/ngne/)
-
 ### [NGNE Sprite Editor](https://github.com/that-webdev-dude/ngne-sprite-editor)
 
 A browser-based pixel art editor inspired by Aseprite, with layers, animation frames, onion skinning and NGNE-powered rendering.
 
 Built to make artwork that actually looks the same in the editor and the game.
 
-[Source](https://github.com/that-webdev-dude/ngne-sprite-editor)
-
 ### [devkit-ts](https://github.com/that-webdev-dude/devkit-ts)
 
 A TypeScript project scaffolding CLI. React, vanilla TS, libraries, build tooling and tests without the usual setup routine.
 
 Because writing boilerplate once was enough.
-
-[Source](https://github.com/that-webdev-dude/devkit-ts)
 
 ## Tech stack
 
