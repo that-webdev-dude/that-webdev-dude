@@ -32,7 +32,7 @@ Browser games where the engine and editors get put to use—and where I find out
   <tr><td>Languages</td><td>TypeScript, JavaScript, Java, C++</td></tr>
   <tr><td>Frontend</td><td>React, HTML, CSS</td></tr>
   <tr><td>Backend</td><td>Spring Boot, Node.js</td></tr>
-  <tr><td>Graphics</td><td>WebGPU, WebGL</td></tr>
+  <tr><td>Graphics</td><td>WebGPU</td></tr>
   <tr><td>Tooling</td><td>Git, Vite, Playwright</td></tr>
 </table>
 
